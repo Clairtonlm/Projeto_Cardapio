@@ -6,7 +6,7 @@ section{
     display: flex;
 }
 .produtos{
-    display: flex;
-    justify-content: space-between;
+    width: 300PX;
+    height: 300PX;
 
 }
