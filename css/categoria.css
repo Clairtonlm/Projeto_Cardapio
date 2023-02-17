@@ -1,0 +1,12 @@
+h2{
+    color: red;
+    text-align: center;
+}
+section{
+    display: flex;
+}
+.produtos{
+    display: flex;
+    justify-content: space-between;
+
+}
