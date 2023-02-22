@@ -1,0 +1,72 @@
+nav {
+  background: linear-gradient(90deg, #032660, #084794);  
+  
+}
+
+span {
+  color: white;
+}
+
+span:hover {
+  color: #7a7a7a;
+}
+
+#navbar {
+    border-bottom: 1px solid #7a7a7a;
+  }
+  
+#navbar a {
+    color: white;
+    
+  }
+  
+#navbar a:hover {
+    color: #7a7a7a;
+  }
+  
+#navbar .active {
+    border-bottom: 1px solid #050505;
+  }
+  
+.navbar-brand {
+    display: flex;
+  }
+  
+.navbar-brand img {
+    width: 150px;
+  }
+  
+.navbar-brand span {
+    font-weight: 600;
+    font-size: 35px;
+    margin-left: 0.5em;
+    margin-top: 0.5em;
+  }
+  
+#navbar-items .navbar-nav {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+  }
+  
+#navbar-items .nav-item {
+    margin: 0 1em;
+  }
+
+.nav-link img {
+    width: 30px;
+    
+  }
+
+.nav-item a {
+    font-size: 20px;
+  }
+
+.form-check {
+  margin-top: 0.7em;
+}
+
+
+
+
+
