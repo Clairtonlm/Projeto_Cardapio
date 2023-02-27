@@ -1,0 +1,66 @@
+:root {
+	--font1: 'Newsreader', serif;
+	--primary-color: #F6D271;
+	--secundary-color: #000;
+	--icon-color: #F0D578;
+	--primary-background-color: #F2F2F2;
+	--secundary-background-color: #F1F5F6;
+}
+
+html {
+	box-sizing: border-box;
+	font-size: 62.5%;
+}
+*,
+*:before,
+*:after {
+	box-sizing: inherit;
+}
+body {
+	font-family: var(--font1);
+	font-size: 1.6rem;
+	line-height: 1.25;
+}
+a{
+	text-decoration: none;
+	color: #fff;
+}
+img {
+	max-width: 100%;
+}
+
+h1 {
+	font-size: 3.8rem;
+}
+h2 {
+	font-size: 3.6rem;
+}
+h3 {
+	font-size: 2rem;
+}
+h1, h2, h3{
+	font-weight: 400;
+}
+h3{
+	font-weight: 500;
+}
+
+
+
+
+
+#bebida{
+	padding: .1rem 0 3rem 0;
+	position: relative;
+	overflow: hidden;
+}
+@media (min-width: 640px) {
+	.bebida_container{
+		grid-template-columns: repeat(2, 1fr);
+	}
+}
+@media (min-width: 1024px) {
+	.bebida_container{
+		grid-template-columns: repeat(3, 1fr);
+	}
+}
