@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+   box-sizing: border-box;
+   
+   
+}
+body{
+   
+    background-image: url("imagens/Scotch.gif");
+   position: relative;
+    
+}
+.menu-lateral{
+width: 37vh;
+height: 750px;
+background-color: rgb(101, 80, 5);
+
+}
+a{
+    text-decoration: none;
+}
+h1{
+    
+    text-align: center;
+    height: 150px;
+    color: white;
+}
+ul, li {
+    
+    color: white;
+    height: 50px;
+}
+.tabela{
+    background-color: rgb(145, 151, 100);
+    display: flex;
+    justify-content: center;
+    
+}
