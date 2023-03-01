@@ -3,10 +3,10 @@ Bem-vindo ao repositório do Projeto de Cardápio de Bebibas Digital College! Aq
 
 Essa aplicação  foi desenvolvida em grupo, como parte de um trabalho/projeto na Digital College. As pessoas integrantes do grupo que colobararam no desenvolvimento desse projeto foram:
 
-* a
-* b
-* c
-* d
+* Clairton Lima
+* Raimundo Neto
+* Eugênio
+* Ricardo
 
 # Funcionamento
 
