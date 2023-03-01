@@ -1,4 +1,4 @@
-/*NAvBar*/
+
 :root{
     --font1-color:#084794;
     --primaray-color: #f6d271;
@@ -17,6 +17,7 @@ html{
     box-sizing: border-box;
     font-size: 62.5%;
 }
+
 a{
     text-decoration: none;
     color: #fff;
@@ -45,7 +46,7 @@ h3{
 
 }
 
-
+/*NAvBar*/
 nav {
     background: linear-gradient(90deg, #032660, #084794);  
     
@@ -109,20 +110,13 @@ nav {
     margin-top: 0.7em;
   }
   
-  
-  
-  
-  
-  
-
+/*Bebidas*/
 #bebidas{
     padding: .1rem 0 3rem 0;
     position: relative;
     overflow: hidden;
 }
-.bebida-container{
 
-    }
 .info bebida__info center-text{
 
 }
@@ -148,9 +142,7 @@ nav {
     border-radius: 1rem;
     box-shadow: 0 1rem 2rem 0 rgba(191,191,191,0.5);
 }
-.grog__img{
 
-}
 .grog__info{
     background-color: #fff;
     padding: 1rem 2rem;
@@ -315,7 +307,7 @@ footer{
 }
 @media screen and (max-width: 900px){
     footer{
-        position: fixed;
+       
         bottom: 0px;
     }
     .main-content{
