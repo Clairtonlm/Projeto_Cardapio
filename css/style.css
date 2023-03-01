@@ -112,7 +112,8 @@ nav {
   
 /*Bebidas*/
 #bebidas{
-    padding: .1rem 0 3rem 0;
+   
+    padding: 120px px 3rem 0;
     position: relative;
     overflow: hidden;
 }
@@ -120,6 +121,7 @@ nav {
 .info bebida__info center-text{
 
 }
+
 .bebidas__grog{
     margin-top: 8rem;
     display: grid;
